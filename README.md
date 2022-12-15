@@ -28,3 +28,4 @@ Hobbies
   * My favorite game is  (insert game here)
 
 Attended the SEP program in my school
+My project that I did:  [Link to my project](https://dongxuanw1366.github.io/)
