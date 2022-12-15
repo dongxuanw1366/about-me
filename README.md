@@ -2,12 +2,16 @@
 
 ## Basic info
 
-Name: Dongxuan Wei
+**Name**: Dongxuan Wei
 
-Age: 15
+_Age_: 15
 
-Gender: Male/boy
+**Gender**: Male/boy
 
-Grade: 10th grade
+_Grade_: 10th grade
 
-School: High School of Telecommunication Arts and Technology
+**School**: High School of Telecommunication Arts and Technology
+
+---
+## Contact info
+1. **Phone Number**: 123-456-7890
