@@ -15,3 +15,4 @@ _Grade_: 10th grade
 ---
 ## Contact info
 1. **Phone Number**: 123-456-7890
+2. **Email**: dongxuanw1366@hstat.org
